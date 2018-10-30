@@ -1,0 +1,115 @@
+#txtKey{
+    margin-bottom: -1px;
+}
+.widget-box{
+    margin-top: 0px !important;
+}
+
+.txt{
+    /*font-size: 20px;*/
+}
+.pagination {
+    display: inline-block;
+    margin-bottom: 25px;
+    margin-top: 0;
+    padding-left: 15px;
+}
+
+.pagination  li:first-child  a, .pagination  li:first-child  span {
+    border-bottom-left-radius: 0;
+    border-top-left-radius: 0;
+    margin-left: 0;
+}
+
+.pagination  li:last-child  a, .pagination  li:last-child  span {
+    border-bottom-right-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.pagination  .active  a, .pagination  .active  span, .pagination  .active  a:hover, .pagination  .active  span:hover, .pagination  .active  a:focus, .pagination  .active  span:focus {
+    background-color: #FE980F;
+    border-color: #FE980F;
+    color: #FFFFFF;
+    cursor: default;
+    z-index: 2;
+}
+
+.pagination  li  a, .pagination  li  span {
+    background-color: #f0f0e9;
+    border: 0;
+    float: left;
+    line-height: 1.42857;
+    margin-left: -1px;
+    padding: 6px 12px;
+    position: relative;
+    text-decoration: none;
+    margin-right: 5px;
+    color:#000;
+}
+
+.pagination  li  a:hover{
+    background:#FE980F;
+    color:#fff;
+}
+ul li {
+    display: inline-block;
+    list-style: none;
+}
+/*.text-none {*/
+    /*text-transform: none;*/
+/*}*/
+/*.btn, button {*/
+    /*position: relative;*/
+/*}*/
+/*.btn-main {*/
+    /*color: #000;*/
+    /*background-color: #fce615;*/
+    /*border-color: #fce615;*/
+/*}*/
+/*.btn {*/
+    /*font-family: "Roboto Condensed", sans-serif;*/
+    /*font-size: 13px;*/
+    /*font-weight: 700;*/
+    /*letter-spacing: .06em;*/
+    /*border-radius: 0;*/
+    /*text-transform: uppercase;*/
+/*}*/
+/*.btn-block {*/
+    /*display: block;*/
+    /*width: 100%;*/
+/*}*/
+/*.btn-group-lg>.btn, .btn-lg {*/
+    /*padding: 10px 16px;*/
+    /*font-size: 18px;*/
+    /*line-height: 1.3333333;*/
+    /*border-radius: 6px;*/
+/*}*/
+/*.btn {*/
+    /*display: inline-block;*/
+    /*padding: 6px 12px;*/
+    /*margin-bottom: 0;*/
+    /*font-size: 14px;*/
+    /*font-weight: 400;*/
+    /*line-height: 1.42857143;*/
+    /*text-align: center;*/
+    /*white-space: nowrap;*/
+    /*vertical-align: middle;*/
+    /*-ms-touch-action: manipulation;*/
+    /*touch-action: manipulation;*/
+    /*cursor: pointer;*/
+    /*-webkit-user-select: none;*/
+    /*-moz-user-select: none;*/
+    /*-ms-user-select: none;*/
+    /*user-select: none;*/
+    /*background-image: none;*/
+    /*border: 1px solid transparent;*/
+    /*border-radius: 4px;*/
+/*}*/
+
+/*.hp-media-left {*/
+    /*width: 35% !important;*/
+/*}*/
+/*.media-body, .media-left, .media-right {*/
+    /*display: table-cell;*/
+    /*vertical-align: top;*/
+/*}*/
